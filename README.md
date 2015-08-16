@@ -8,4 +8,5 @@ Available at http://mattbk.com/content/publications.
 Results are also summarized in a preprint at http://dx.doi.org/10.7287/peerj.preprints.626v2.
 
 Changelog:
-2015-08-16: In the process of copying R scripts over.  I am also working on a new paper using MOMOCS, so these scripts may not be as useful for performing analyses, but they can be used to check my existing results.
+
+- 2015-08-16: In the process of copying R scripts over.  I am also working on a new paper using MOMOCS, so these scripts may not be as useful for performing analyses, but they can be used to check my existing results.
